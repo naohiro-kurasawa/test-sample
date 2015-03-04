@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/jenkins":{"mount_options":["dmode=777","fmode=776"],"guestpath":"/var/jenkins","hostpath":"/Users/seattle/home/practice/jenkins-sample/jenkins","disabled":false},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/seattle/home/practice/jenkins-sample/jenkins/infra/vagrant","disabled":false}}}
